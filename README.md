@@ -2,6 +2,9 @@
 
 ## Swift
 
+- https://www.avanderlee.com/swift/weak-self/
+- https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
+
 ### Closures
 
 https://docs.swift.org/swift-book/LanguageGuide/Closures.html
