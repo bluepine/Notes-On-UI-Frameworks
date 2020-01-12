@@ -4,10 +4,16 @@
 
 - https://www.avanderlee.com/swift/weak-self/
 - https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
+- https://docs.swift.org/swift-book/LanguageGuide/Methods.html
+- https://developer.apple.com/swift/blog/?id=10
+- https://docs.swift.org/swift-book/ReferenceManual/Attributes.html
+- https://developer.apple.com/documentation/swift/expressiblebyarrayliteral
 
 ### Closures
 
 https://docs.swift.org/swift-book/LanguageGuide/Closures.html
+
+closure capture list: https://blog.bobthedeveloper.io/swift-capture-list-in-closures-e28282c71b95
 
 ## iOS Basics
 
